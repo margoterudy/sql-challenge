@@ -1,4 +1,4 @@
--- Creating table schema
+-- Create table schema
 
 --Create table dept_emp
 
@@ -58,7 +58,7 @@ CREATE TABLE employees (
 select * from employees
 
 
---Creating salaries table
+--Create salaries table
 
 DROP TABLE salaries
 
@@ -72,7 +72,7 @@ CREATE TABLE salaries (
 select * from salaries
 
 
---Creating titles table
+--Create titles table
 
 DROP TABLE titles
 
